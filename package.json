@@ -1,0 +1,11 @@
+{
+  "name": "pdfmanager",
+  "version": "1.0.0",
+  "description": "this is pdfmanager",
+  "main": "index.js",
+  "scripts": {
+    "test": "hemraj"
+  },
+  "author": "hemraj",
+  "license": "ISC"
+}
